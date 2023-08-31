@@ -1,3 +1,15 @@
-{
-    "title": "web design is terrifying"
-}
+"menu": [
+    {
+        "title": "web design is terrifying",
+        "entries": [
+            {
+                "title": "linkedin",
+                "url": "https://www.linkedin.com/in/moireilly/"
+            }
+        ]
+    },
+    {
+        "title": "Work",
+        "post_list": "Work"
+    }
+]
